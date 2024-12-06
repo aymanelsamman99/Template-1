@@ -1,0 +1,28 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+body{
+    font-family: "work sans",sana-serif;
+
+}
+.parent{
+    background-color: #eee;
+    width: 600px;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+   
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+    background-color: #eee;
+   
+   
+   
+}
