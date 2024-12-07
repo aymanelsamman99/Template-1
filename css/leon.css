@@ -10,10 +10,8 @@ body{
 .parent{
     background-color: #eee;
     width: 600px;
-   
-    display: flex;
-    align-items: center;
-    justify-content: center;
+   margin: auto;
+    
 
    
 }
@@ -25,4 +23,10 @@ body{
    
    
    
+}
+.container{
+
+    
+    width: 600px;
+    margin: a
 }
